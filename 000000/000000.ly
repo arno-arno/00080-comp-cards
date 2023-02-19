@@ -1,7 +1,8 @@
 \version "2.24.0"
 \language "english"
 
-\include "functions\func.ly"
+\include "..\functions\func.ly"
+
 
 dummy = {
   %\set Score.autoBeaming = ##f 
