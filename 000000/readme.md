@@ -1,5 +1,3 @@
 # CARD 000000
 
-<svg>
-    <use href="000000.cropped.svg" style="--color_fill: #000;"></use>
-</svg>
+<img src="000000.cropped.svg" style="width: 100%"/>

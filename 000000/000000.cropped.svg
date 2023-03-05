@@ -4,6 +4,12 @@
 
 tspan { white-space: pre; }
 g {color: auto;}
+@media (prefers-color-scheme: light) {
+          g {color: black;}
+}
+@media (prefers-color-scheme: dark) {
+          g {color: #f0f6fc;}
+}
 
 </style>
 <g transform="translate(65.2720, 2.5283)">
