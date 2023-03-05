@@ -3,6 +3,7 @@
 
 \include "..\functions\func.ly"
 
+#(ly:set-option 'crop )
 
 dummy = {
   %\set Score.autoBeaming = ##f 
