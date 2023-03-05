@@ -3,7 +3,7 @@
 <style type="text/css">
 
 tspan { white-space: pre; }
-g {fill: var(--color-fg-default);}
+g {color: auto;}
 
 </style>
 <g transform="translate(65.2720, 2.5283)">
