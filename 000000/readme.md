@@ -1,5 +1,6 @@
 # CARD 000000
 
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="194.62mm" height="266.39mm" viewBox="-1.9200 -0.0000 155.6960 213.1150">
 <style type="text/css">
 <![CDATA[
@@ -6461,3 +6462,6 @@ l-37 -15v-151c0 -12 -10 -22 -22 -22s-22 10 -22 22v134l-77 -29v-152c0 -12 -10 -22
 l77 30v152z" fill="currentColor"/>
 </g>
 </svg>
+=======
+> ![](000000-page1.png) ![](000000-page2.png)
+>>>>>>> 42210fcc164150243eba81e9a261492cacd65963
