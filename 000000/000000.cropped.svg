@@ -8,7 +8,7 @@ g {color: auto;}
           g {color: black;}
 }
 @media (prefers-color-scheme: dark) {
-          g {color: #f0f6fc;}
+          g {color: #c0c0d0;}
 }
 
 </style>
