@@ -1,8 +1,17 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" style="" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="194.62mm" height="266.39mm" viewBox="-1.9200 -0.0000 155.6960 213.1150">
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="194.62mm" height="266.39mm" viewBox="-1.9200 -0.0000 155.6960 213.1150">
+<script>
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const color = urlParams.get('color');
+var r = document.querySelector(':root');
+r.style.setProperty('color', color);
+</script>
 <style type="text/css">
 tspan { white-space: pre; }
-g {color: param(color) black}
+g {-moz-context-properties: 
+    
+    color: param(color);}
 </style>
 <g transform="translate(65.2720, 2.5283)">
 <text font-family="serif" font-weight="bold" font-size="3.4922" text-anchor="start" fill="currentColor">
