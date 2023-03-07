@@ -1,7 +1,8 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" style="color: black; background-color: white" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="194.62mm" height="266.39mm" viewBox="-1.9200 -0.0000 155.6960 213.1150">
+<svg xmlns="http://www.w3.org/2000/svg" style="" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="194.62mm" height="266.39mm" viewBox="-1.9200 -0.0000 155.6960 213.1150">
 <style type="text/css">
 tspan { white-space: pre; }
+g {color: param(color) black}
 </style>
 <g transform="translate(65.2720, 2.5283)">
 <text font-family="serif" font-weight="bold" font-size="3.4922" text-anchor="start" fill="currentColor">
